@@ -126,18 +126,6 @@ Some key observations from the analysis include:
 
 ---
 
-## 📁 Project Structure
-
-```
-Movie_EDA/
-│
-├── EDA_Movie_dataset_analysis.ipynb
-├── README.md
-└── data/
-    └── movie_dataset.csv
-```
-
-
 ## 📦 Requirements
 
 ```
