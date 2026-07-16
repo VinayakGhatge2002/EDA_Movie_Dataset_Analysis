@@ -133,11 +133,6 @@ Movie_EDA/
 │
 ├── EDA_Movie_dataset_analysis.ipynb
 ├── README.md
-├── images/
-│   ├── budget_distribution.png
-│   ├── budget_vs_revenue.png
-│   ├── correlation_heatmap.png
-│   └── genre_distribution.png
 └── data/
     └── movie_dataset.csv
 ```
